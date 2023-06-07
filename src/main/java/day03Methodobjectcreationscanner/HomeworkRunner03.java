@@ -1,4 +1,4 @@
-package day03Methodobjevtcreationscanner;
+package day03Methodobjectcreationscanner;
 
 public class HomeworkRunner03 {
     public static void main(String[] args) {

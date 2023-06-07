@@ -27,5 +27,6 @@ public class Md03 {
         }
         System.out.println(Arrays.toString(newArr));
 
+
     }
 }

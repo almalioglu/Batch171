@@ -1,4 +1,4 @@
-package day03Methodobjevtcreationscanner;
+package day03Methodobjectcreationscanner;
 
 public class Student {
     //Variable (pasif ozellikler)

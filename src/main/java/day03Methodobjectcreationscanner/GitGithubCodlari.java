@@ -1,11 +1,11 @@
-package day03Methodobjevtcreationscanner;
+package day03Methodobjectcreationscanner;
 
 public class GitGithubCodlari {
     /* GIT KOMUTLARI
 ---------------
 - 1. git init --> Local repo oluşturmak için yani git ile klasörümüzün içindeki dosyaları
 ilişkilendirmek için kullanılır
-- 2. git add . --> Working space'deki (yani yerel) dosyadarımı staging area'ya
+- 2. git add . --> Working space'deki (yani yerel) dosyalarımı staging area'ya
 (yani commitlemek için beklenen yer) gönderir
 - 3. git commit -m "mesaj" --> Staging area'dan commit stora dosyalarımı göndermek için kullanılır
 (Commit yani version yani sürüm oluşmuş olur

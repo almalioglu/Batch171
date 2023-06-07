@@ -1,4 +1,4 @@
-package day03Methodobjevtcreationscanner;
+package day03Methodobjectcreationscanner;
 
 public class Homework03 {
     // Homework1) Cemberin cevresini hesaplayan methodu oluşturup kullanın.

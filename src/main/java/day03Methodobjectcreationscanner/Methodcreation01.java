@@ -1,4 +1,4 @@
-package day03Methodobjevtcreationscanner;
+package day03Methodobjectcreationscanner;
 
 public class Methodcreation01 {
 
@@ -16,6 +16,7 @@ public class Methodcreation01 {
         //daha sonra kendimize gore dizayn ederiz
         String cesaret = "Cok onemli";
         print2(cesaret);
+
 
 
     }
