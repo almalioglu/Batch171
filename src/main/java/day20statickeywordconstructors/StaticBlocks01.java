@@ -13,11 +13,11 @@ public class StaticBlocks01 {
     //her seyden once hazir hale getirilmis olur
     //birden fazla static block olmasi durumunda yukarda olan once calisir
     //main method olmadan static block lar calismaz
-   static {//static block
-       pi=3.14;
-       System.out.println("static block 1");
-   }
 
+    static {//static block
+        pi=3.14;
+        System.out.println("static block 1");
+    }
    static {
        shape="Circle";
        System.out.println("static block 2");
@@ -25,5 +25,6 @@ public class StaticBlocks01 {
     public static void main(String[] args){
         System.out.println(pi);
         System.out.println("main method");
+        System.out.println(shape);
     }
 }

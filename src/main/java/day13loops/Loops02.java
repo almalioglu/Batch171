@@ -7,7 +7,7 @@ public class Loops02 {
             if (i%2==0 && i%3==0) System.out.print(i+" ");//i-- dersek veya sartlardan birini yazmazsak sonsuz loop olur;RAM i yer ,intellj i kapatip tekrar acin
         }
         System.out.println("\n");
-        //Ornek 2: Size verilen kucuk harfle yazilmis Stringini index i cift sayi olan characterlerini buyuk harfle yazdirin
+        //Ornek 2: Size verilen kucuk harfle yazilmis Stringin index i cift sayi olan characterlerini buyuk harfle yazdirin
         //  ankara ==>AKR
 
         String s ="ankara";

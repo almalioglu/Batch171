@@ -49,6 +49,10 @@ public class Car {
         this.year = year;
     }
 
+    public Car(String make) {
+        this.make = make;
+    }
+
     @Override
     public String toString() {
         return "Car{" +

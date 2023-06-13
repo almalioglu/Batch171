@@ -53,9 +53,10 @@ public class Arrays01 {
             if(w.startsWith("F")){
                 continue;
             }
-            System.out.println(w);
+            System.out.print(w+" ");
 
         }
+
 
     }
 }
